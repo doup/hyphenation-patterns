@@ -1,0 +1,6 @@
+{
+  "name": "hyphenation-patterns",
+  "description": "Hyphenation patterns for use with Hypher",
+  "authors": ["Bram Stein <b.l.stein@gmail.com> (http://www.bramstein.com)"],
+  "license": "LGPL"
+}
