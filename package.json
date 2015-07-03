@@ -1,0 +1,6 @@
+{
+  "name": "hyphenation-patterns",
+  "version": "1.0.0",
+  "description": "An example module to illustrate the usage of a package.json",
+  "license": "LGPL"
+}
