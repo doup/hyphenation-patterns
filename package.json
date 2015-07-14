@@ -1,6 +1,11 @@
 {
   "name": "hyphenation-patterns",
   "version": "1.0.0",
-  "description": "An example module to illustrate the usage of a package.json",
-  "license": "LGPL"
+  "description": "Hyphenation patterns for use with Hypher",
+  "author": "Bram Stein <b.l.stein@gmail.com> (http://www.bramstein.com)",
+  "license": "LGPL",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bramstein/hyphenation-patterns.git"
+  }
 }
